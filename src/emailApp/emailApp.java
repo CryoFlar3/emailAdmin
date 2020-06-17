@@ -2,6 +2,7 @@ package emailApp;
 
 public class emailApp {
     public static void main(String[] args) {
-        Email em1 = new Email("John","Smith");
+        email  em1 = new email("John", "Smith");
+
     }
 }
